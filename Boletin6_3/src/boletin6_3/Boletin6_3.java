@@ -16,6 +16,8 @@ public class Boletin6_3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Calcular6_3 numero = new Calcular6_3();
+        numero.calcular_numero();
     }
-    
+
 }
